@@ -1,0 +1,10 @@
+name: TheSourceCode
+main: me.skevydev.thesourcecode.Main
+version: 1.0
+author: SkevyDev
+description: Plugin para Estudar
+
+commands:
+  warp:
+  setwarp:
+  custommob:
